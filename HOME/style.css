@@ -319,19 +319,21 @@ nav ul li a{
     position: relative;
     color: #fff;
     text-transform: uppercase;
+    margin-left: 40px;
+    
 }
 
 .heading{
-    font-size: 40px;
+    font-size: 50px;
 }
 
 .model-name{
-    font-size: 120px;
-    margin: 40px 0;
+    font-size: 100px;
+
 }
 
 .link{
-    font-size: 250px;
+    font-size: 100px;
     cursor: pointer;
     position: relative;
     width: fit-content;
@@ -342,8 +344,7 @@ nav ul li a{
     position: absolute;
     width: 35px;
     height: 40px;
-    top: -5px;
-    left: -20px;
+    left:-60px;
     background-image: url(hex.png);
     background-size: 100% 100%;
     transform: 1s;
